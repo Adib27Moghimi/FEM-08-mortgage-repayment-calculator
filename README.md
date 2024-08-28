@@ -11,9 +11,7 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -54,4 +52,4 @@ Maybe in the future I will improve this app and I want to learn more topics from
 
 - Frontend Mentor - [@Adib27Moghimi](https://www.frontendmentor.io/profile/Adib27Moghimi)
 - GitHub - [Adib27Moghimi](https://github.com/Adib27Moghimi)
-- Telegram - [@Adib70m](https://t.me/Adib70m)
+- Telegram - [@Adib27Moghimi](https://t.me/Adib27Moghimi)
