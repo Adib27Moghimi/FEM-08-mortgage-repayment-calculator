@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution URL](https://www.frontendmentor.io/solutions/i-just-made-a-simple-style-of-mobile-mode-using-react-and-css-83RHEvrJxh)
+- Live Site URL: [My live site URL](https://master--celebrated-zabaione-087a19.netlify.app/)
 
 ## My process
 
